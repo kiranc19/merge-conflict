@@ -1,6 +1,5 @@
 pseudo code
-{
-Initial Function()
+new changes
 {
   //Sample Code
 }
